@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table,
+tr,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(88, 121, 214);
+    width: 90%;
+    height: 70px;
+    box-sizing: border-box;
+    table-layout: fixed;
+}
+.colour{
+    background-color: peru;
+    border: 2px solid black;
+}
+.colour1{
+    background-color: aqua;
+    border: 2px solid black;
+}
+.colour2{
+    background-color: blue;
+    border: 2px solid black;
+}
+.colour3{
+    background-color: hotpink;
+    border: 2px solid black;
+}
+.colour4{
+    background-color: greenyellow;
+    border: 2px solid black;
+}
+.colour5{
+    background-color: orange;
+    border: 2px solid black;
+}
+.colour6{
+    background-color: yellow;
+    border: 2px solid black;
+}
+.colour7{
+    background-color: red;
+    border: 2px solid black;
+}
+.troll img{
+    width: 60px;
+    height: 50px;
+}
+/* .trolla{
+    width: 40px;
+    height: 10px;
+    rotate: -170deg;
+} */
+.troll{
+    width: 60px;
+    height: 50px;
+    font-size: 10px;
+    font-weight: 800;
+    text-align: center;
+    rotate: 180deg;
+}
+.troll1{
+    width: 50px;
+    height: 50px;
+    font-size: 10px;
+    font-weight: 800;
+    text-align: center;
+    rotate: -90deg;   
+}
+.troll1 img{
+    width: 60px;
+    height: 50px;
+}
+.troll2{
+    width: 60px;
+    height: 50px;
+    font-size: 10px;
+    font-weight: 800;
+    /* rotate: 20deg; */
+    text-align: center;
+}
+.troll2 img{
+    width: 60px;
+    height: 50px;
+}
+.troll3{
+    width: 40px;
+    height: 50px;
+    font-size: 10px;
+    font-weight: 800;
+    rotate: -90deg;
+    text-align: center;
+}
+.troll4{
+    width: 55px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: 800;
+    rotate: 50deg;
+    text-align: center;
+    margin: 15px;
+}
+.troll4 img{
+    width: 60px;
+    height: 50px;
+    /* rotate: 50deg; */
+}
+.troll5{
+    width: 55px;
+    height: 55px;
+    font-size: 15px;
+    font-weight: 800;
+    rotate: -50deg;
+    text-align: center;
+}
+.center{
+    font-size: 80px;
+    font-weight: 900;
+    margin: auto;
+    background-color: red;
+    color: white;
+    width: fit-content;
+    height: 110px;
+    border: 3px solid black;
+    border-radius: 20px;
+    rotate: -45deg;
+    text-align: center;
+}
